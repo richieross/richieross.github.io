@@ -12,6 +12,3 @@ GitHub Pages runs [Jekyll](https://jekyllrb.com/) to rebuild the pages in my web
 
 This site use Markdown syntax to style and format my writing.
 
-For more details on GitHub's version of Markdown, see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-
